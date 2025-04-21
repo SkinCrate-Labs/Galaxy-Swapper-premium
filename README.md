@@ -45,8 +45,5 @@ Here’s a preview of how the **Fortnite Skin Changer** looks in action:
 
 ---
 
-## 🚀 How To Use
 
-1. **Download or Clone the repo**
-```bash
-git clone https://github.com/yourusername/Fortnite-Skin-Changer.git
+
